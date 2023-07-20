@@ -3,7 +3,7 @@
 ```php
 
 <?php
-echo "Bienvenido al software libre!!"
+echo "Bienvenido al software libre!!";
 ?>
 
 ```
