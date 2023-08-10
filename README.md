@@ -1,9 +1,9 @@
-<h1 align="center">Hola, soy Juan 😄</h1>
+<h1 align="center">Bienvenido!! 😄</h1>
 
 ```php
 
 <?php
-echo "Bienvenido al software libre!!";
+echo "Mejorando un mundo mejor, con el software libre!! 👨‍💻";
 ?>
 
 ```
