@@ -19,7 +19,10 @@ $integraciones = [
     'API Paypal',
     'API SUNAT Perú'
 ];
-$lenguajes = [ 'PHP', 'JAVASCRIPT' ];
+$lenguajes = [
+    'PHP',
+    'JAVASCRIPT'
+];
 $basededatos = 'MySql';
 
 $resultado = "Porgramando software libre 👨‍💻;
