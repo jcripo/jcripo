@@ -6,6 +6,7 @@
 echo "🅑🅘🅔🅝🅥🅔🅝🅘🅓🅞!! 😄"
 
 $framework = "Laravel";
+$basededatos = 'MySql';
 $librerias = [
     'Jquery',
     'Bootstrap',
@@ -23,7 +24,6 @@ $lenguajes = [
     'PHP',
     'JAVASCRIPT'
 ];
-$basededatos = 'MySql';
 
 $resultado = "Porgramando software libre 👨‍💻;
 $resultado .= 'en framework: '.$framework;
