@@ -1,11 +1,36 @@
-<h1 align="center">Bienvenido!! 😄</h1>
+
 
 ```php
 
 <?php
-echo "Mejorando un mundo mejor, con el software libre!! 👨‍💻";
-?>
+echo "🅑🅘🅔🅝🅥🅔🅝🅘🅓🅞!! 😄"
 
+$framework = "Laravel";
+$librerias = [
+    'Jquery',
+    'Bootstrap',
+    'Datatable',
+    'Select2'
+];
+$integraciones = [
+    'API Google',
+    'API Culqui',
+    'API Facebook',
+    'API Paypal',
+    'API SUNAT Perú'
+];
+$lenguajes = [ 'PHP', 'JAVASCRIPT' ];
+$basededatos = 'MySql';
+
+$resultado = "Porgramando software libre 👨‍💻;
+$resultado .= 'en framework: '.$framework;
+$resultado .= 'usando librerias: '.print_r($librerias).', ';
+$resultado .= 'integraciones: '.print_r($integraciones).', ';
+$resultado .= 'lenguajes: '.print_r($lenguajes).' y ';
+$resultado .= 'base de datos: '.$basededatos.'"';
+
+echo $resultado
+?>
 ```
 <!--
 **jcripo/jcripo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
