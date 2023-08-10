@@ -25,7 +25,7 @@ $lenguajes = [
     'JAVASCRIPT'
 ];
 
-$resultado = "Porgramando software libre 👨‍💻;
+$resultado = '"Porgramando software libre 👨‍💻';
 $resultado .= 'en framework: '.$framework;
 $resultado .= 'usando librerias: '.print_r($librerias).', ';
 $resultado .= 'integraciones: '.print_r($integraciones).', ';
