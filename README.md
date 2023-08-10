@@ -32,7 +32,7 @@ $resultado .= 'integraciones: '.print_r($integraciones).', ';
 $resultado .= 'lenguajes: '.print_r($lenguajes).' y ';
 $resultado .= 'base de datos: '.$basededatos.'"';
 
-echo $resultado
+echo $resultado;
 ?>
 ```
 <!--
